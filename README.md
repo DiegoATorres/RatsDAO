@@ -58,8 +58,11 @@ The method by which the airdrop & staking rewards are organized provides a someh
 At first, the actual core team is in charge of almost everything, once the minting is over we will implement a smart contract to vote and in some cases enforce the decision made. But even in this level of decentralization, there are nuances. At first, a disproportionate amount of voting power will be in hands of the Genesis Holders that would hold 50% of the $RAT due to the airdrop just received, in time this proportion will reduce, reaching 17% at the end of the rewarding program.
 We believe this makes sense.
 
+#### Timeline:
 
-
+* Phase 0-Creation: The actual core team is in charge of almost everything, from writing the whitepaper, minting Genesys token, Tokenomics, Organizing the community, social media coverage, etc. We expect this phase to last 6 weeks until end of February 2022.
+* Phase 1-Governance: once the minting is over we will implement a smart contracts to vote and in some cases enforce the decision made (tools being considered are Snapchat, Aragon, etc.) and the distribution of RATs. We expect this phase to last until June 2022.
+* Phase 2-Growth: we forsee a significant potential of growth in the DAO were we would need more talent for growth and marketing, CNFTs curators, spreading $RAT to relevant exchanges, building content, tranlation services, etc. We exect to enter this phase on H2 2022.
 
 
 
