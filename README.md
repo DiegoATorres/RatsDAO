@@ -17,7 +17,7 @@ The main goal is to fund the Treasury by minting CNFT and then distribute $RAT t
 
 ### Fungible token:
 There will be 100,000,000 $RAT
-Policy ID: d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed
+### Policy ID: d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed
 
 $RAT will be distributed as follows:
 * 5% Airdrop to Genesis token holders (up to 5,000 per CNFT)
